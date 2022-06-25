@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionMVC", "DependencyInjectionMVC.csproj", "{30C52040-0F6F-46CB-B1D1-14DBF97ECA1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", "{FB58D59B-2644-47E7-AC67-D5F1A0345DA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "..\Interface\Interface.csproj", "{2DCB1CE3-92A5-42B6-9D9D-7292EB6FC39E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30C52040-0F6F-46CB-B1D1-14DBF97ECA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C52040-0F6F-46CB-B1D1-14DBF97ECA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C52040-0F6F-46CB-B1D1-14DBF97ECA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C52040-0F6F-46CB-B1D1-14DBF97ECA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB58D59B-2644-47E7-AC67-D5F1A0345DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB58D59B-2644-47E7-AC67-D5F1A0345DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB58D59B-2644-47E7-AC67-D5F1A0345DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB58D59B-2644-47E7-AC67-D5F1A0345DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DCB1CE3-92A5-42B6-9D9D-7292EB6FC39E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCB1CE3-92A5-42B6-9D9D-7292EB6FC39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCB1CE3-92A5-42B6-9D9D-7292EB6FC39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCB1CE3-92A5-42B6-9D9D-7292EB6FC39E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEE46E55-9FD3-4015-9B5D-58C213B4ED13}
+	EndGlobalSection
+EndGlobal
